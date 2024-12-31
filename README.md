@@ -39,8 +39,8 @@ Real-time data processing is essential for applications like monitoring, fraud d
 ## 🔧 How to Run  
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/your-username/real-time-data-streaming.git  
-   cd real-time-data-streaming  
+   git clone https://github.com/rajsalvi744/simple-data-streaming.git
+   cd simple-data-streaming  
 2. Set Up Docker:
 Ensure Docker is installed and start the services using:
    ```bash
